@@ -1,0 +1,12 @@
+public class Main{
+    public static void main(String[] args){
+        int i=24;
+        byte b=15;
+        short s=3;
+        long l=23466;
+        boolean bl=true;
+        
+        s= (byte)s;
+        System.out.println(s);
+    }
+}
